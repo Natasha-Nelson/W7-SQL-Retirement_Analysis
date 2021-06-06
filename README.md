@@ -4,6 +4,11 @@
 The goal of this analysis was to examine the employment data for a fictious large enterprise company, Pewlett-Hackard. In this project, I determined the number of retiring employees per title, and identify employees who are eligible to participate in a mentorship program. 
 
 ## Results
+When conducting an evaulation of the number of retiring employees, I found that that the term 'silver tsunami' is appropriate for the 
+
+
+
+
 Provide a bulleted list with four major points from the two analysis deliverables. Use images as support where needed.
 Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
 How many roles will need to be filled as the "silver tsunami" begins to make an impact?
